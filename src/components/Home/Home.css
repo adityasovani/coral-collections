@@ -1,0 +1,7 @@
+.jumbotron {
+    background: var(--Black-5, rgba(30, 40, 50, 0.05));
+}
+.header-separator{
+    height: 1px;
+    background: #E3E3E3;
+}

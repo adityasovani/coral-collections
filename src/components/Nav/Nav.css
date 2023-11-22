@@ -1,0 +1,14 @@
+.nav-item {
+    color: var(--Dark, #000);
+    font-feature-settings: 'clig' off, 'liga' off;
+
+    /* A */
+    /* font-family: Open Sans; */
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+    text-transform: capitalize;
+    cursor: pointer;
+}
